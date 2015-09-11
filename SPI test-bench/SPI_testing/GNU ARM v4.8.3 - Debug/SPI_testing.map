@@ -1,0 +1,1189 @@
+Archive member included because of file (symbol)
+
+c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m\libc_s.a(lib_a-exit.o)
+                              c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/crt0.o (exit)
+c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m\libc_s.a(lib_a-impure.o)
+                              c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m\libc_s.a(lib_a-exit.o) (_global_impure_ptr)
+c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m\libc_s.a(lib_a-init.o)
+                              c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/crt0.o (__libc_init_array)
+c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m\libc_s.a(lib_a-memset.o)
+                              c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/crt0.o (memset)
+c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m\libnosys.a(_exit.o)
+                              c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m\libc_s.a(lib_a-exit.o) (_exit)
+
+Allocating common symbols
+Common symbol       size              file
+
+SystemCoreClock     0x4               ./CMSIS/efm32wg/system_efm32wg.o
+bglib_temp_msg      0x14              ./src/main.o
+tmp_buf             0x100             ./src/main.o
+rx_buf              0x4               ./src/main.o
+
+Discarded input sections
+
+ .text          0x00000000        0x0 c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/crti.o
+ .data          0x00000000        0x0 c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/crti.o
+ .bss           0x00000000        0x0 c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/crti.o
+ .data          0x00000000        0x4 c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/crtbegin.o
+ .data          0x00000000        0x0 c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/crt0.o
+ .bss           0x00000000        0x0 c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/crt0.o
+ .ARM.extab     0x00000000        0x0 c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/crt0.o
+ .text          0x00000000        0x0 ./src/InitDevice.o
+ .data          0x00000000        0x0 ./src/InitDevice.o
+ .bss           0x00000000        0x0 ./src/InitDevice.o
+ .text.HFXO_enter_DefaultMode_from_RESET
+                0x00000000        0xc ./src/InitDevice.o
+ .text.LFXO_enter_DefaultMode_from_RESET
+                0x00000000        0xc ./src/InitDevice.o
+ .text.ADC0_enter_DefaultMode_from_RESET
+                0x00000000        0xc ./src/InitDevice.o
+ .text.ACMP0_enter_DefaultMode_from_RESET
+                0x00000000        0xc ./src/InitDevice.o
+ .text.ACMP1_enter_DefaultMode_from_RESET
+                0x00000000        0xc ./src/InitDevice.o
+ .text.DAC0_enter_DefaultMode_from_RESET
+                0x00000000        0xc ./src/InitDevice.o
+ .text.BURTC_enter_DefaultMode_from_RESET
+                0x00000000        0xc ./src/InitDevice.o
+ .text.RTC_enter_DefaultMode_from_RESET
+                0x00000000        0xc ./src/InitDevice.o
+ .text.OPAMP0_enter_DefaultMode_from_RESET
+                0x00000000        0xc ./src/InitDevice.o
+ .text.OPAMP1_enter_DefaultMode_from_RESET
+                0x00000000        0xc ./src/InitDevice.o
+ .text.OPAMP2_enter_DefaultMode_from_RESET
+                0x00000000        0xc ./src/InitDevice.o
+ .text.USART0_enter_DefaultMode_from_RESET
+                0x00000000        0xc ./src/InitDevice.o
+ .text.USART2_enter_DefaultMode_from_RESET
+                0x00000000        0xc ./src/InitDevice.o
+ .text.UART0_enter_DefaultMode_from_RESET
+                0x00000000        0xc ./src/InitDevice.o
+ .text.UART1_enter_DefaultMode_from_RESET
+                0x00000000        0xc ./src/InitDevice.o
+ .text.LEUART0_enter_DefaultMode_from_RESET
+                0x00000000        0xc ./src/InitDevice.o
+ .text.LEUART1_enter_DefaultMode_from_RESET
+                0x00000000        0xc ./src/InitDevice.o
+ .text.VCMP_enter_DefaultMode_from_RESET
+                0x00000000        0xc ./src/InitDevice.o
+ .text.WDOG_enter_DefaultMode_from_RESET
+                0x00000000        0xc ./src/InitDevice.o
+ .text.I2C0_enter_DefaultMode_from_RESET
+                0x00000000        0xc ./src/InitDevice.o
+ .text.I2C1_enter_DefaultMode_from_RESET
+                0x00000000        0xc ./src/InitDevice.o
+ .text.LCD_enter_DefaultMode_from_RESET
+                0x00000000        0xc ./src/InitDevice.o
+ .text.TIMER0_enter_DefaultMode_from_RESET
+                0x00000000        0xc ./src/InitDevice.o
+ .text.TIMER1_enter_DefaultMode_from_RESET
+                0x00000000        0xc ./src/InitDevice.o
+ .text.TIMER2_enter_DefaultMode_from_RESET
+                0x00000000        0xc ./src/InitDevice.o
+ .text.TIMER3_enter_DefaultMode_from_RESET
+                0x00000000        0xc ./src/InitDevice.o
+ .text.PCNT0_enter_DefaultMode_from_RESET
+                0x00000000        0xc ./src/InitDevice.o
+ .text.PCNT1_enter_DefaultMode_from_RESET
+                0x00000000        0xc ./src/InitDevice.o
+ .text.PCNT2_enter_DefaultMode_from_RESET
+                0x00000000        0xc ./src/InitDevice.o
+ .text.PRS_enter_DefaultMode_from_RESET
+                0x00000000        0xc ./src/InitDevice.o
+ .text.ETM_enter_DefaultMode_from_RESET
+                0x00000000        0xc ./src/InitDevice.o
+ .text.EBI_enter_DefaultMode_from_RESET
+                0x00000000        0xc ./src/InitDevice.o
+ .text          0x00000000        0x0 ./src/main.o
+ .data          0x00000000        0x0 ./src/main.o
+ .bss           0x00000000        0x0 ./src/main.o
+ .text          0x00000000        0x0 ./emlib/em_cmu.o
+ .data          0x00000000        0x0 ./emlib/em_cmu.o
+ .bss           0x00000000        0x0 ./emlib/em_cmu.o
+ .text.CMU_Log2ToDiv
+                0x00000000       0x1c ./emlib/em_cmu.o
+ .text.CMU_Calibrate
+                0x00000000       0x88 ./emlib/em_cmu.o
+ .text.CMU_CalibrateConfig
+                0x00000000       0xd8 ./emlib/em_cmu.o
+ .text.CMU_ClockDivGet
+                0x00000000      0x16c ./emlib/em_cmu.o
+ .text.CMU_ClockDivSet
+                0x00000000      0x244 ./emlib/em_cmu.o
+ .text.CMU_FreezeEnable
+                0x00000000       0x38 ./emlib/em_cmu.o
+ .text.CMU_AUXHFRCOBandGet
+                0x00000000       0x20 ./emlib/em_cmu.o
+ .text.CMU_AUXHFRCOBandSet
+                0x00000000       0xb0 ./emlib/em_cmu.o
+ .text.CMU_HFRCOBandGet
+                0x00000000       0x20 ./emlib/em_cmu.o
+ .text.CMU_HFRCOBandSet
+                0x00000000       0xcc ./emlib/em_cmu.o
+ .text.CMU_HFRCOStartupDelayGet
+                0x00000000       0x1c ./emlib/em_cmu.o
+ .text.CMU_HFRCOStartupDelaySet
+                0x00000000       0x30 ./emlib/em_cmu.o
+ .text.CMU_LCDClkFDIVGet
+                0x00000000       0x1c ./emlib/em_cmu.o
+ .text.CMU_LCDClkFDIVSet
+                0x00000000       0x3c ./emlib/em_cmu.o
+ .text.CMU_OscillatorTuningGet
+                0x00000000       0x50 ./emlib/em_cmu.o
+ .text.CMU_OscillatorTuningSet
+                0x00000000       0x74 ./emlib/em_cmu.o
+ .text.CMU_PCNTClockExternalGet
+                0x00000000       0x64 ./emlib/em_cmu.o
+ .text.CMU_PCNTClockExternalSet
+                0x00000000       0x34 ./emlib/em_cmu.o
+ .text          0x00000000        0x0 ./emlib/em_emu.o
+ .data          0x00000000        0x0 ./emlib/em_emu.o
+ .bss           0x00000000        0x0 ./emlib/em_emu.o
+ .text.SystemCoreClockUpdate
+                0x00000000        0xc ./emlib/em_emu.o
+ .text.BITBAND_Peripheral
+                0x00000000       0x2c ./emlib/em_emu.o
+ .text.EMU_BUPinEnable
+                0x00000000       0x20 ./emlib/em_emu.o
+ .text.EMU_Unlock
+                0x00000000       0x18 ./emlib/em_emu.o
+ .text.CMU_Lock
+                0x00000000       0x18 ./emlib/em_emu.o
+ .text.CMU_Unlock
+                0x00000000       0x1c ./emlib/em_emu.o
+ .text.EMU_Restore
+                0x00000000       0xf4 ./emlib/em_emu.o
+ .text.getErrataFixEmuE107En
+                0x00000000       0x58 ./emlib/em_emu.o
+ .text.EMU_EnterEM2
+                0x00000000       0x9c ./emlib/em_emu.o
+ .text.EMU_EnterEM3
+                0x00000000       0xbc ./emlib/em_emu.o
+ .text.EMU_EnterEM4
+                0x00000000       0x50 ./emlib/em_emu.o
+ .text.EMU_MemPwrDown
+                0x00000000       0x14 ./emlib/em_emu.o
+ .text.EMU_EM23Init
+                0x00000000       0x34 ./emlib/em_emu.o
+ .text.EMU_EM4Init
+                0x00000000       0x50 ./emlib/em_emu.o
+ .text.EMU_BUPDInit
+                0x00000000       0xcc ./emlib/em_emu.o
+ .text.EMU_BUThresholdSet
+                0x00000000       0x4c ./emlib/em_emu.o
+ .text.EMU_BUThresRangeSet
+                0x00000000       0x50 ./emlib/em_emu.o
+ .text          0x00000000        0x0 ./emlib/em_gpio.o
+ .data          0x00000000        0x0 ./emlib/em_gpio.o
+ .bss           0x00000000        0x0 ./emlib/em_gpio.o
+ .text.BITBAND_Peripheral
+                0x00000000       0x2c ./emlib/em_gpio.o
+ .text.GPIO_DbgLocationSet
+                0x00000000       0x2c ./emlib/em_gpio.o
+ .text.GPIO_DriveModeSet
+                0x00000000       0x50 ./emlib/em_gpio.o
+ .text.GPIO_IntConfig
+                0x00000000       0xc0 ./emlib/em_gpio.o
+ .text.GPIO_PinModeSet
+                0x00000000      0x144 ./emlib/em_gpio.o
+ .debug_info    0x00000000      0x4d4 ./emlib/em_gpio.o
+ .debug_abbrev  0x00000000      0x13a ./emlib/em_gpio.o
+ .debug_loc     0x00000000      0x118 ./emlib/em_gpio.o
+ .debug_aranges
+                0x00000000       0x40 ./emlib/em_gpio.o
+ .debug_ranges  0x00000000       0x30 ./emlib/em_gpio.o
+ .debug_line    0x00000000      0x27b ./emlib/em_gpio.o
+ .debug_str     0x00000000      0x581 ./emlib/em_gpio.o
+ .comment       0x00000000       0x71 ./emlib/em_gpio.o
+ .ARM.attributes
+                0x00000000       0x37 ./emlib/em_gpio.o
+ .debug_frame   0x00000000       0xa8 ./emlib/em_gpio.o
+ .text          0x00000000        0x0 ./emlib/em_system.o
+ .data          0x00000000        0x0 ./emlib/em_system.o
+ .bss           0x00000000        0x0 ./emlib/em_system.o
+ .text.SYSTEM_ChipRevisionGet
+                0x00000000       0x74 ./emlib/em_system.o
+ .text.SYSTEM_GetCalibrationValue
+                0x00000000       0x54 ./emlib/em_system.o
+ .debug_info    0x00000000      0x245 ./emlib/em_system.o
+ .debug_abbrev  0x00000000       0xef ./emlib/em_system.o
+ .debug_loc     0x00000000       0x70 ./emlib/em_system.o
+ .debug_aranges
+                0x00000000       0x28 ./emlib/em_system.o
+ .debug_ranges  0x00000000       0x18 ./emlib/em_system.o
+ .debug_line    0x00000000      0x213 ./emlib/em_system.o
+ .debug_str     0x00000000      0x2f0 ./emlib/em_system.o
+ .comment       0x00000000       0x71 ./emlib/em_system.o
+ .ARM.attributes
+                0x00000000       0x37 ./emlib/em_system.o
+ .debug_frame   0x00000000       0x48 ./emlib/em_system.o
+ .text          0x00000000        0x0 ./emlib/em_usart.o
+ .data          0x00000000        0x0 ./emlib/em_usart.o
+ .bss           0x00000000        0x0 ./emlib/em_usart.o
+ .text.USART_BaudrateAsyncSet
+                0x00000000       0xb0 ./emlib/em_usart.o
+ .text.USART_BaudrateCalc
+                0x00000000       0xb8 ./emlib/em_usart.o
+ .text.USART_BaudrateGet
+                0x00000000       0x50 ./emlib/em_usart.o
+ .text.USART_Enable
+                0x00000000       0x70 ./emlib/em_usart.o
+ .text.USART_InitAsync
+                0x00000000       0xb4 ./emlib/em_usart.o
+ .text.USART_InitIrDA
+                0x00000000       0x74 ./emlib/em_usart.o
+ .text.USART_InitI2s
+                0x00000000       0x94 ./emlib/em_usart.o
+ .text.USART_Rx
+                0x00000000       0x28 ./emlib/em_usart.o
+ .text.USART_RxDouble
+                0x00000000       0x28 ./emlib/em_usart.o
+ .text.USART_RxDoubleExt
+                0x00000000       0x28 ./emlib/em_usart.o
+ .text.USART_RxExt
+                0x00000000       0x28 ./emlib/em_usart.o
+ .text.USART_Tx
+                0x00000000       0x2c ./emlib/em_usart.o
+ .text.USART_TxDouble
+                0x00000000       0x2c ./emlib/em_usart.o
+ .text.USART_TxDoubleExt
+                0x00000000       0x28 ./emlib/em_usart.o
+ .text.USART_TxExt
+                0x00000000       0x2c ./emlib/em_usart.o
+ .text          0x00000000        0x0 ./WF121/cmd_def.o
+ .data          0x00000000        0x0 ./WF121/cmd_def.o
+ .bss           0x00000000        0x0 ./WF121/cmd_def.o
+ .rodata.apis   0x00000000      0xcb4 ./WF121/cmd_def.o
+ .text.wifi_get_msg
+                0x00000000       0x28 ./WF121/cmd_def.o
+ .text.wifi_find_msg_hdr
+                0x00000000       0x58 ./WF121/cmd_def.o
+ .text.wifi_get_msg_hdr
+                0x00000000       0x98 ./WF121/cmd_def.o
+ .text.wifi_send_message
+                0x00000000      0x270 ./WF121/cmd_def.o
+ .rodata.wifi_class_dfu_rsp_handlers
+                0x00000000       0x10 ./WF121/cmd_def.o
+ .rodata.wifi_class_dfu_evt_handlers
+                0x00000000        0x4 ./WF121/cmd_def.o
+ .rodata.wifi_class_system_rsp_handlers
+                0x00000000       0x10 ./WF121/cmd_def.o
+ .rodata.wifi_class_system_evt_handlers
+                0x00000000       0x10 ./WF121/cmd_def.o
+ .rodata.wifi_class_config_rsp_handlers
+                0x00000000        0x8 ./WF121/cmd_def.o
+ .rodata.wifi_class_config_evt_handlers
+                0x00000000        0x4 ./WF121/cmd_def.o
+ .rodata.wifi_class_sme_rsp_handlers
+                0x00000000       0x5c ./WF121/cmd_def.o
+ .rodata.wifi_class_sme_evt_handlers
+                0x00000000       0x5c ./WF121/cmd_def.o
+ .rodata.wifi_class_tcpip_rsp_handlers
+                0x00000000       0x4c ./WF121/cmd_def.o
+ .rodata.wifi_class_tcpip_evt_handlers
+                0x00000000       0x2c ./WF121/cmd_def.o
+ .rodata.wifi_class_endpoint_rsp_handlers
+                0x00000000       0x1c ./WF121/cmd_def.o
+ .rodata.wifi_class_endpoint_evt_handlers
+                0x00000000       0x14 ./WF121/cmd_def.o
+ .rodata.wifi_class_hardware_rsp_handlers
+                0x00000000       0x40 ./WF121/cmd_def.o
+ .rodata.wifi_class_hardware_evt_handlers
+                0x00000000       0x14 ./WF121/cmd_def.o
+ .rodata.wifi_class_flash_rsp_handlers
+                0x00000000       0x18 ./WF121/cmd_def.o
+ .rodata.wifi_class_flash_evt_handlers
+                0x00000000        0xc ./WF121/cmd_def.o
+ .rodata.wifi_class_i2c_rsp_handlers
+                0x00000000        0xc ./WF121/cmd_def.o
+ .rodata.wifi_class_https_rsp_handlers
+                0x00000000       0x10 ./WF121/cmd_def.o
+ .rodata.wifi_class_https_evt_handlers
+                0x00000000       0x18 ./WF121/cmd_def.o
+ .rodata.wifi_class_ethernet_rsp_handlers
+                0x00000000        0xc ./WF121/cmd_def.o
+ .rodata.wifi_class_ethernet_evt_handlers
+                0x00000000        0x4 ./WF121/cmd_def.o
+ .rodata.wifi_class_sdhc_rsp_handlers
+                0x00000000       0x28 ./WF121/cmd_def.o
+ .rodata.wifi_class_sdhc_evt_handlers
+                0x00000000       0x10 ./WF121/cmd_def.o
+ .rodata.wifi_class_util_rsp_handlers
+                0x00000000        0x8 ./WF121/cmd_def.o
+ .rodata.wifi_class_rsp_handlers
+                0x00000000       0x68 ./WF121/cmd_def.o
+ .rodata.wifi_class_evt_handlers
+                0x00000000       0x68 ./WF121/cmd_def.o
+ .text          0x00000000        0x0 ./WF121/stubs.o
+ .data          0x00000000        0x0 ./WF121/stubs.o
+ .bss           0x00000000        0x0 ./WF121/stubs.o
+ .text.wifi_default
+                0x00000000       0x14 ./WF121/stubs.o
+ .text.wifi_rsp_dfu_reset
+                0x00000000       0x14 ./WF121/stubs.o
+ .text.wifi_rsp_dfu_flash_set_address
+                0x00000000       0x14 ./WF121/stubs.o
+ .text.wifi_rsp_dfu_flash_upload
+                0x00000000       0x14 ./WF121/stubs.o
+ .text.wifi_rsp_dfu_flash_upload_finish
+                0x00000000       0x14 ./WF121/stubs.o
+ .text.wifi_rsp_system_sync
+                0x00000000       0x14 ./WF121/stubs.o
+ .text.wifi_rsp_system_reset
+                0x00000000       0x14 ./WF121/stubs.o
+ .text.wifi_rsp_system_hello
+                0x00000000       0x14 ./WF121/stubs.o
+ .text.wifi_rsp_system_set_max_power_saving_state
+                0x00000000       0x14 ./WF121/stubs.o
+ .text.wifi_rsp_config_get_mac
+                0x00000000       0x14 ./WF121/stubs.o
+ .text.wifi_rsp_config_set_mac
+                0x00000000       0x14 ./WF121/stubs.o
+ .text.wifi_rsp_sme_wifi_on
+                0x00000000       0x14 ./WF121/stubs.o
+ .text.wifi_rsp_sme_wifi_off
+                0x00000000       0x14 ./WF121/stubs.o
+ .text.wifi_rsp_sme_power_on
+                0x00000000       0x14 ./WF121/stubs.o
+ .text.wifi_rsp_sme_start_scan
+                0x00000000       0x14 ./WF121/stubs.o
+ .text.wifi_rsp_sme_stop_scan
+                0x00000000       0x14 ./WF121/stubs.o
+ .text.wifi_rsp_sme_set_password
+                0x00000000       0x14 ./WF121/stubs.o
+ .text.wifi_rsp_sme_connect_bssid
+                0x00000000       0x14 ./WF121/stubs.o
+ .text.wifi_rsp_sme_connect_ssid
+                0x00000000       0x14 ./WF121/stubs.o
+ .text.wifi_rsp_sme_disconnect
+                0x00000000       0x14 ./WF121/stubs.o
+ .text.wifi_rsp_sme_set_scan_channels
+                0x00000000       0x14 ./WF121/stubs.o
+ .text.wifi_rsp_sme_set_operating_mode
+                0x00000000       0x14 ./WF121/stubs.o
+ .text.wifi_rsp_sme_start_ap_mode
+                0x00000000       0x14 ./WF121/stubs.o
+ .text.wifi_rsp_sme_stop_ap_mode
+                0x00000000       0x14 ./WF121/stubs.o
+ .text.wifi_rsp_sme_scan_results_sort_rssi
+                0x00000000       0x14 ./WF121/stubs.o
+ .text.wifi_rsp_sme_ap_client_disconnect
+                0x00000000       0x14 ./WF121/stubs.o
+ .text.wifi_rsp_sme_set_ap_password
+                0x00000000       0x14 ./WF121/stubs.o
+ .text.wifi_rsp_sme_set_ap_max_clients
+                0x00000000       0x14 ./WF121/stubs.o
+ .text.wifi_rsp_sme_start_wps
+                0x00000000       0x14 ./WF121/stubs.o
+ .text.wifi_rsp_sme_stop_wps
+                0x00000000       0x14 ./WF121/stubs.o
+ .text.wifi_rsp_sme_get_signal_quality
+                0x00000000       0x14 ./WF121/stubs.o
+ .text.wifi_rsp_sme_start_ssid_scan
+                0x00000000       0x14 ./WF121/stubs.o
+ .text.wifi_rsp_sme_set_ap_hidden
+                0x00000000       0x14 ./WF121/stubs.o
+ .text.wifi_rsp_sme_set_11n_mode
+                0x00000000       0x14 ./WF121/stubs.o
+ .text.wifi_rsp_tcpip_start_tcp_server
+                0x00000000       0x14 ./WF121/stubs.o
+ .text.wifi_rsp_tcpip_tcp_connect
+                0x00000000       0x14 ./WF121/stubs.o
+ .text.wifi_rsp_tcpip_start_udp_server
+                0x00000000       0x14 ./WF121/stubs.o
+ .text.wifi_rsp_tcpip_udp_connect
+                0x00000000       0x14 ./WF121/stubs.o
+ .text.wifi_rsp_tcpip_configure
+                0x00000000       0x14 ./WF121/stubs.o
+ .text.wifi_rsp_tcpip_dns_configure
+                0x00000000       0x14 ./WF121/stubs.o
+ .text.wifi_rsp_tcpip_dns_gethostbyname
+                0x00000000       0x14 ./WF121/stubs.o
+ .text.wifi_rsp_tcpip_udp_bind
+                0x00000000       0x14 ./WF121/stubs.o
+ .text.wifi_rsp_tcpip_dhcp_set_hostname
+                0x00000000       0x14 ./WF121/stubs.o
+ .text.wifi_rsp_tcpip_dhcp_enable_routing
+                0x00000000       0x14 ./WF121/stubs.o
+ .text.wifi_rsp_tcpip_mdns_set_hostname
+                0x00000000       0x14 ./WF121/stubs.o
+ .text.wifi_rsp_tcpip_mdns_start
+                0x00000000       0x14 ./WF121/stubs.o
+ .text.wifi_rsp_tcpip_mdns_stop
+                0x00000000       0x14 ./WF121/stubs.o
+ .text.wifi_rsp_tcpip_dnssd_add_service
+                0x00000000       0x14 ./WF121/stubs.o
+ .text.wifi_rsp_tcpip_dnssd_add_service_instance
+                0x00000000       0x14 ./WF121/stubs.o
+ .text.wifi_rsp_tcpip_dnssd_add_service_attribute
+                0x00000000       0x14 ./WF121/stubs.o
+ .text.wifi_rsp_tcpip_dnssd_remove_service
+                0x00000000       0x14 ./WF121/stubs.o
+ .text.wifi_rsp_tcpip_dnssd_start_service
+                0x00000000       0x14 ./WF121/stubs.o
+ .text.wifi_rsp_tcpip_dnssd_stop_service
+                0x00000000       0x14 ./WF121/stubs.o
+ .text.wifi_rsp_endpoint_send
+                0x00000000       0x14 ./WF121/stubs.o
+ .text.wifi_rsp_endpoint_set_streaming
+                0x00000000       0x14 ./WF121/stubs.o
+ .text.wifi_rsp_endpoint_set_active
+                0x00000000       0x14 ./WF121/stubs.o
+ .text.wifi_rsp_endpoint_set_streaming_destination
+                0x00000000       0x14 ./WF121/stubs.o
+ .text.wifi_rsp_endpoint_close
+                0x00000000       0x14 ./WF121/stubs.o
+ .text.wifi_rsp_endpoint_set_transmit_size
+                0x00000000       0x14 ./WF121/stubs.o
+ .text.wifi_rsp_endpoint_disable
+                0x00000000       0x14 ./WF121/stubs.o
+ .text.wifi_rsp_hardware_set_soft_timer
+                0x00000000       0x14 ./WF121/stubs.o
+ .text.wifi_rsp_hardware_external_interrupt_config
+                0x00000000       0x14 ./WF121/stubs.o
+ .text.wifi_rsp_hardware_change_notification_config
+                0x00000000       0x14 ./WF121/stubs.o
+ .text.wifi_rsp_hardware_change_notification_pullup
+                0x00000000       0x14 ./WF121/stubs.o
+ .text.wifi_rsp_hardware_io_port_config_direction
+                0x00000000       0x14 ./WF121/stubs.o
+ .text.wifi_rsp_hardware_io_port_config_open_drain
+                0x00000000       0x14 ./WF121/stubs.o
+ .text.wifi_rsp_hardware_io_port_write
+                0x00000000       0x14 ./WF121/stubs.o
+ .text.wifi_rsp_hardware_io_port_read
+                0x00000000       0x14 ./WF121/stubs.o
+ .text.wifi_rsp_hardware_output_compare
+                0x00000000       0x14 ./WF121/stubs.o
+ .text.wifi_rsp_hardware_adc_read
+                0x00000000       0x14 ./WF121/stubs.o
+ .text.wifi_rsp_hardware_rtc_init
+                0x00000000       0x14 ./WF121/stubs.o
+ .text.wifi_rsp_hardware_rtc_set_time
+                0x00000000       0x14 ./WF121/stubs.o
+ .text.wifi_rsp_hardware_rtc_get_time
+                0x00000000       0x14 ./WF121/stubs.o
+ .text.wifi_rsp_hardware_rtc_set_alarm
+                0x00000000       0x14 ./WF121/stubs.o
+ .text.wifi_rsp_hardware_uart_conf_set
+                0x00000000       0x14 ./WF121/stubs.o
+ .text.wifi_rsp_hardware_uart_conf_get
+                0x00000000       0x14 ./WF121/stubs.o
+ .text.wifi_rsp_flash_ps_defrag
+                0x00000000       0x14 ./WF121/stubs.o
+ .text.wifi_rsp_flash_ps_dump
+                0x00000000       0x14 ./WF121/stubs.o
+ .text.wifi_rsp_flash_ps_erase_all
+                0x00000000       0x14 ./WF121/stubs.o
+ .text.wifi_rsp_flash_ps_save
+                0x00000000       0x14 ./WF121/stubs.o
+ .text.wifi_rsp_flash_ps_load
+                0x00000000       0x14 ./WF121/stubs.o
+ .text.wifi_rsp_flash_ps_erase
+                0x00000000       0x14 ./WF121/stubs.o
+ .text.wifi_rsp_i2c_start_read
+                0x00000000       0x14 ./WF121/stubs.o
+ .text.wifi_rsp_i2c_start_write
+                0x00000000       0x14 ./WF121/stubs.o
+ .text.wifi_rsp_i2c_stop
+                0x00000000       0x14 ./WF121/stubs.o
+ .text.wifi_rsp_https_enable
+                0x00000000       0x14 ./WF121/stubs.o
+ .text.wifi_rsp_https_add_path
+                0x00000000       0x14 ./WF121/stubs.o
+ .text.wifi_rsp_https_api_response
+                0x00000000       0x14 ./WF121/stubs.o
+ .text.wifi_rsp_https_api_response_finish
+                0x00000000       0x14 ./WF121/stubs.o
+ .text.wifi_rsp_ethernet_set_dataroute
+                0x00000000       0x14 ./WF121/stubs.o
+ .text.wifi_rsp_ethernet_close
+                0x00000000       0x14 ./WF121/stubs.o
+ .text.wifi_rsp_ethernet_connected
+                0x00000000       0x14 ./WF121/stubs.o
+ .text.wifi_rsp_sdhc_fopen
+                0x00000000       0x14 ./WF121/stubs.o
+ .text.wifi_rsp_sdhc_fclose
+                0x00000000       0x14 ./WF121/stubs.o
+ .text.wifi_rsp_sdhc_fdir
+                0x00000000       0x14 ./WF121/stubs.o
+ .text.wifi_rsp_sdhc_fread
+                0x00000000       0x14 ./WF121/stubs.o
+ .text.wifi_rsp_sdhc_fwrite
+                0x00000000       0x14 ./WF121/stubs.o
+ .text.wifi_rsp_sdhc_fdelete
+                0x00000000       0x14 ./WF121/stubs.o
+ .text.wifi_rsp_sdhc_fmkdir
+                0x00000000       0x14 ./WF121/stubs.o
+ .text.wifi_rsp_sdhc_fchdir
+                0x00000000       0x14 ./WF121/stubs.o
+ .text.wifi_rsp_sdhc_frename
+                0x00000000       0x14 ./WF121/stubs.o
+ .text.wifi_rsp_sdhc_fchmode
+                0x00000000       0x14 ./WF121/stubs.o
+ .text.wifi_rsp_util_atoi
+                0x00000000       0x14 ./WF121/stubs.o
+ .text.wifi_rsp_util_itoa
+                0x00000000       0x14 ./WF121/stubs.o
+ .text.wifi_evt_dfu_boot
+                0x00000000       0x14 ./WF121/stubs.o
+ .text.wifi_evt_system_boot
+                0x00000000       0x14 ./WF121/stubs.o
+ .text.wifi_evt_system_state
+                0x00000000       0x14 ./WF121/stubs.o
+ .text.wifi_evt_system_sw_exception
+                0x00000000       0x14 ./WF121/stubs.o
+ .text.wifi_evt_system_power_saving_state
+                0x00000000       0x14 ./WF121/stubs.o
+ .text.wifi_evt_config_mac_address
+                0x00000000       0x14 ./WF121/stubs.o
+ .text.wifi_evt_sme_wifi_is_on
+                0x00000000       0x14 ./WF121/stubs.o
+ .text.wifi_evt_sme_wifi_is_off
+                0x00000000       0x14 ./WF121/stubs.o
+ .text.wifi_evt_sme_scan_result
+                0x00000000       0x14 ./WF121/stubs.o
+ .text.wifi_evt_sme_scan_result_drop
+                0x00000000       0x14 ./WF121/stubs.o
+ .text.wifi_evt_sme_scanned
+                0x00000000       0x14 ./WF121/stubs.o
+ .text.wifi_evt_sme_connected
+                0x00000000       0x14 ./WF121/stubs.o
+ .text.wifi_evt_sme_disconnected
+                0x00000000       0x14 ./WF121/stubs.o
+ .text.wifi_evt_sme_interface_status
+                0x00000000       0x14 ./WF121/stubs.o
+ .text.wifi_evt_sme_connect_failed
+                0x00000000       0x14 ./WF121/stubs.o
+ .text.wifi_evt_sme_connect_retry
+                0x00000000       0x14 ./WF121/stubs.o
+ .text.wifi_evt_sme_ap_mode_started
+                0x00000000       0x14 ./WF121/stubs.o
+ .text.wifi_evt_sme_ap_mode_stopped
+                0x00000000       0x14 ./WF121/stubs.o
+ .text.wifi_evt_sme_ap_mode_failed
+                0x00000000       0x14 ./WF121/stubs.o
+ .text.wifi_evt_sme_ap_client_joined
+                0x00000000       0x14 ./WF121/stubs.o
+ .text.wifi_evt_sme_ap_client_left
+                0x00000000       0x14 ./WF121/stubs.o
+ .text.wifi_evt_sme_scan_sort_result
+                0x00000000       0x14 ./WF121/stubs.o
+ .text.wifi_evt_sme_scan_sort_finished
+                0x00000000       0x14 ./WF121/stubs.o
+ .text.wifi_evt_sme_wps_stopped
+                0x00000000       0x14 ./WF121/stubs.o
+ .text.wifi_evt_sme_wps_completed
+                0x00000000       0x14 ./WF121/stubs.o
+ .text.wifi_evt_sme_wps_failed
+                0x00000000       0x14 ./WF121/stubs.o
+ .text.wifi_evt_sme_wps_credential_ssid
+                0x00000000       0x14 ./WF121/stubs.o
+ .text.wifi_evt_sme_wps_credential_password
+                0x00000000       0x14 ./WF121/stubs.o
+ .text.wifi_evt_sme_signal_quality
+                0x00000000       0x14 ./WF121/stubs.o
+ .text.wifi_evt_tcpip_configuration
+                0x00000000       0x14 ./WF121/stubs.o
+ .text.wifi_evt_tcpip_dns_configuration
+                0x00000000       0x14 ./WF121/stubs.o
+ .text.wifi_evt_tcpip_endpoint_status
+                0x00000000       0x14 ./WF121/stubs.o
+ .text.wifi_evt_tcpip_dns_gethostbyname_result
+                0x00000000       0x14 ./WF121/stubs.o
+ .text.wifi_evt_tcpip_udp_data
+                0x00000000       0x14 ./WF121/stubs.o
+ .text.wifi_evt_tcpip_mdns_started
+                0x00000000       0x14 ./WF121/stubs.o
+ .text.wifi_evt_tcpip_mdns_failed
+                0x00000000       0x14 ./WF121/stubs.o
+ .text.wifi_evt_tcpip_mdns_stopped
+                0x00000000       0x14 ./WF121/stubs.o
+ .text.wifi_evt_tcpip_dnssd_service_started
+                0x00000000       0x14 ./WF121/stubs.o
+ .text.wifi_evt_tcpip_dnssd_service_failed
+                0x00000000       0x14 ./WF121/stubs.o
+ .text.wifi_evt_tcpip_dnssd_service_stopped
+                0x00000000       0x14 ./WF121/stubs.o
+ .text.wifi_evt_endpoint_syntax_error
+                0x00000000       0x14 ./WF121/stubs.o
+ .text.wifi_evt_endpoint_data
+                0x00000000       0x14 ./WF121/stubs.o
+ .text.wifi_evt_endpoint_status
+                0x00000000       0x14 ./WF121/stubs.o
+ .text.wifi_evt_endpoint_closing
+                0x00000000       0x14 ./WF121/stubs.o
+ .text.wifi_evt_endpoint_error
+                0x00000000       0x14 ./WF121/stubs.o
+ .text.wifi_evt_hardware_soft_timer
+                0x00000000       0x14 ./WF121/stubs.o
+ .text.wifi_evt_hardware_change_notification
+                0x00000000       0x14 ./WF121/stubs.o
+ .text.wifi_evt_hardware_external_interrupt
+                0x00000000       0x14 ./WF121/stubs.o
+ .text.wifi_evt_hardware_rtc_alarm
+                0x00000000       0x14 ./WF121/stubs.o
+ .text.wifi_evt_hardware_uart_conf
+                0x00000000       0x14 ./WF121/stubs.o
+ .text.wifi_evt_flash_ps_key
+                0x00000000       0x14 ./WF121/stubs.o
+ .text.wifi_evt_flash_ps_key_changed
+                0x00000000       0x14 ./WF121/stubs.o
+ .text.wifi_evt_flash_low_voltage
+                0x00000000       0x14 ./WF121/stubs.o
+ .text.wifi_evt_https_on_req
+                0x00000000       0x14 ./WF121/stubs.o
+ .text.wifi_evt_https_button
+                0x00000000       0x14 ./WF121/stubs.o
+ .text.wifi_evt_https_api_request
+                0x00000000       0x14 ./WF121/stubs.o
+ .text.wifi_evt_https_api_request_header
+                0x00000000       0x14 ./WF121/stubs.o
+ .text.wifi_evt_https_api_request_data
+                0x00000000       0x14 ./WF121/stubs.o
+ .text.wifi_evt_https_api_request_finished
+                0x00000000       0x14 ./WF121/stubs.o
+ .text.wifi_evt_ethernet_link_status
+                0x00000000       0x14 ./WF121/stubs.o
+ .text.wifi_evt_sdhc_ready
+                0x00000000       0x14 ./WF121/stubs.o
+ .text.wifi_evt_sdhc_fdata
+                0x00000000       0x14 ./WF121/stubs.o
+ .text.wifi_evt_sdhc_ffile
+                0x00000000       0x14 ./WF121/stubs.o
+ .text.wifi_evt_sdhc_fpwd
+                0x00000000       0x14 ./WF121/stubs.o
+ .debug_info    0x00000000     0x3c96 ./WF121/stubs.o
+ .debug_abbrev  0x00000000      0x13a ./WF121/stubs.o
+ .debug_loc     0x00000000     0x24c0 ./WF121/stubs.o
+ .debug_aranges
+                0x00000000      0x558 ./WF121/stubs.o
+ .debug_ranges  0x00000000      0x548 ./WF121/stubs.o
+ .debug_line    0x00000000      0xbd3 ./WF121/stubs.o
+ .debug_str     0x00000000     0x2c1d ./WF121/stubs.o
+ .comment       0x00000000       0x71 ./WF121/stubs.o
+ .ARM.attributes
+                0x00000000       0x37 ./WF121/stubs.o
+ .debug_frame   0x00000000     0x1270 ./WF121/stubs.o
+ .data          0x00000000        0x0 ./CMSIS/efm32wg/startup_gcc_efm32wg.o
+ .bss           0x00000000        0x0 ./CMSIS/efm32wg/startup_gcc_efm32wg.o
+ .text          0x00000000        0x0 ./CMSIS/efm32wg/system_efm32wg.o
+ .data          0x00000000        0x0 ./CMSIS/efm32wg/system_efm32wg.o
+ .bss           0x00000000        0x0 ./CMSIS/efm32wg/system_efm32wg.o
+ .text.SystemHFXOClockSet
+                0x00000000       0x2c ./CMSIS/efm32wg/system_efm32wg.o
+ .text.SystemLFXOClockSet
+                0x00000000       0x2c ./CMSIS/efm32wg/system_efm32wg.o
+ .text          0x00000000        0x0 c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m\libc_s.a(lib_a-exit.o)
+ .data          0x00000000        0x0 c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m\libc_s.a(lib_a-exit.o)
+ .bss           0x00000000        0x0 c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m\libc_s.a(lib_a-exit.o)
+ .text          0x00000000        0x0 c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m\libc_s.a(lib_a-impure.o)
+ .data          0x00000000        0x0 c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m\libc_s.a(lib_a-impure.o)
+ .bss           0x00000000        0x0 c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m\libc_s.a(lib_a-impure.o)
+ .data._impure_ptr
+                0x00000000        0x4 c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m\libc_s.a(lib_a-impure.o)
+ .text          0x00000000        0x0 c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m\libc_s.a(lib_a-init.o)
+ .data          0x00000000        0x0 c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m\libc_s.a(lib_a-init.o)
+ .bss           0x00000000        0x0 c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m\libc_s.a(lib_a-init.o)
+ .text          0x00000000        0x0 c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m\libc_s.a(lib_a-memset.o)
+ .data          0x00000000        0x0 c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m\libc_s.a(lib_a-memset.o)
+ .bss           0x00000000        0x0 c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m\libc_s.a(lib_a-memset.o)
+ .text          0x00000000        0x0 c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m\libnosys.a(_exit.o)
+ .data          0x00000000        0x0 c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m\libnosys.a(_exit.o)
+ .bss           0x00000000        0x0 c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m\libnosys.a(_exit.o)
+ .text          0x00000000        0x0 c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/crtend.o
+ .data          0x00000000        0x0 c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/crtend.o
+ .bss           0x00000000        0x0 c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/crtend.o
+ .text          0x00000000        0x0 c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/crtn.o
+ .data          0x00000000        0x0 c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/crtn.o
+ .bss           0x00000000        0x0 c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+FLASH            0x00000000         0x00040000         xr
+RAM              0x20000000         0x00008000         xrw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/crti.o
+LOAD c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/crtbegin.o
+LOAD c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/crt0.o
+LOAD ./src/InitDevice.o
+LOAD ./src/main.o
+LOAD ./emlib/em_cmu.o
+LOAD ./emlib/em_emu.o
+LOAD ./emlib/em_gpio.o
+LOAD ./emlib/em_system.o
+LOAD ./emlib/em_usart.o
+LOAD ./WF121/cmd_def.o
+LOAD ./WF121/stubs.o
+LOAD ./CMSIS/efm32wg/startup_gcc_efm32wg.o
+LOAD ./CMSIS/efm32wg/system_efm32wg.o
+START GROUP
+LOAD c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m\libgcc.a
+LOAD c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m\libc_s.a
+LOAD c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m\libnosys.a
+END GROUP
+START GROUP
+LOAD c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m\libgcc.a
+LOAD c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m\libg_s.a
+LOAD c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m\libc_s.a
+END GROUP
+START GROUP
+LOAD c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m\libgcc.a
+LOAD c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m\libc_s.a
+END GROUP
+LOAD c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/crtend.o
+LOAD c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/crtn.o
+
+.text           0x00000000     0x1590
+ *(.vectors)
+ .vectors       0x00000000       0xe0 ./CMSIS/efm32wg/startup_gcc_efm32wg.o
+                0x00000000                __Vectors
+                0x000000e0                __Vectors_End = .
+                0x000000e0                __Vectors_Size = (__Vectors_End - __Vectors)
+                0x000000e0                __end__ = .
+ *(.text*)
+ .text          0x000000e0       0x54 c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/crtbegin.o
+ .text          0x00000134       0x74 c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/crt0.o
+                0x00000134                _start
+                0x00000134                _mainCRTStartup
+ .text.enter_DefaultMode_from_RESET
+                0x000001a8       0x14 ./src/InitDevice.o
+                0x000001a8                enter_DefaultMode_from_RESET
+ .text.CMU_enter_DefaultMode_from_RESET
+                0x000001bc       0x28 ./src/InitDevice.o
+                0x000001bc                CMU_enter_DefaultMode_from_RESET
+ .text.USART1_enter_DefaultMode_from_RESET
+                0x000001e4       0x80 ./src/InitDevice.o
+                0x000001e4                USART1_enter_DefaultMode_from_RESET
+ .text.PORTIO_enter_DefaultMode_from_RESET
+                0x00000264       0x94 ./src/InitDevice.o
+                0x00000264                PORTIO_enter_DefaultMode_from_RESET
+ .text.CHIP_Init
+                0x000002f8        0xc ./src/main.o
+ .text.spi_output
+                0x00000304       0x88 ./src/main.o
+                0x00000304                spi_output
+ .text.main     0x0000038c      0x1ac ./src/main.o
+                0x0000038c                main
+ .text.BITBAND_Peripheral
+                0x00000538       0x2c ./emlib/em_cmu.o
+ .text.CMU_FlashWaitStateControl
+                0x00000564       0xb8 ./emlib/em_cmu.o
+ .text.CMU_FlashWaitStateMax
+                0x0000061c       0x1c ./emlib/em_cmu.o
+ .text.CMU_DivToLog2
+                0x00000638       0x3c ./emlib/em_cmu.o
+ .text.CMU_USBCClkGet
+                0x00000674       0x4c ./emlib/em_cmu.o
+ .text.CMU_AUXClkGet
+                0x000006c0       0x8c ./emlib/em_cmu.o
+ .text.CMU_DBGClkGet
+                0x0000074c       0x58 ./emlib/em_cmu.o
+ .text.CMU_LFClkGet
+                0x000007a4       0xb4 ./emlib/em_cmu.o
+ .text.CMU_Sync
+                0x00000858       0x34 ./emlib/em_cmu.o
+ .text.CMU_ClockEnable
+                0x0000088c       0xe0 ./emlib/em_cmu.o
+                0x0000088c                CMU_ClockEnable
+ .text.CMU_ClockFreqGet
+                0x0000096c      0x1fc ./emlib/em_cmu.o
+                0x0000096c                CMU_ClockFreqGet
+ .text.CMU_ClockSelectGet
+                0x00000b68      0x164 ./emlib/em_cmu.o
+                0x00000b68                CMU_ClockSelectGet
+ .text.CMU_ClockSelectSet
+                0x00000ccc      0x298 ./emlib/em_cmu.o
+                0x00000ccc                CMU_ClockSelectSet
+ .text.CMU_OscillatorEnable
+                0x00000f64       0xc0 ./emlib/em_cmu.o
+                0x00000f64                CMU_OscillatorEnable
+ .text.EMU_UpdateOscConfig
+                0x00001024       0x1c ./emlib/em_emu.o
+                0x00001024                EMU_UpdateOscConfig
+ .text.USART_BaudrateSyncSet
+                0x00001040       0x6c ./emlib/em_usart.o
+                0x00001040                USART_BaudrateSyncSet
+ .text.USART_InitSync
+                0x000010ac       0xc8 ./emlib/em_usart.o
+                0x000010ac                USART_InitSync
+ .text.USART_InitPrsTrigger
+                0x00001174       0x60 ./emlib/em_usart.o
+                0x00001174                USART_InitPrsTrigger
+ .text.USART_Reset
+                0x000011d4       0xb0 ./emlib/em_usart.o
+                0x000011d4                USART_Reset
+ .text.USART_SpiTransfer
+                0x00001284       0x40 ./emlib/em_usart.o
+                0x00001284                USART_SpiTransfer
+ .text          0x000012c4       0x30 ./CMSIS/efm32wg/startup_gcc_efm32wg.o
+                0x000012c4                Reset_Handler
+                0x000012f0                DebugMon_Handler
+                0x000012f0                USART0_TX_IRQHandler
+                0x000012f0                I2C0_IRQHandler
+                0x000012f0                HardFault_Handler
+                0x000012f0                LEUART1_IRQHandler
+                0x000012f0                SysTick_Handler
+                0x000012f0                USART1_RX_IRQHandler
+                0x000012f0                PendSV_Handler
+                0x000012f0                NMI_Handler
+                0x000012f0                I2C1_IRQHandler
+                0x000012f0                TIMER3_IRQHandler
+                0x000012f0                USART1_TX_IRQHandler
+                0x000012f0                MSC_IRQHandler
+                0x000012f0                ADC0_IRQHandler
+                0x000012f0                UsageFault_Handler
+                0x000012f0                LEUART0_IRQHandler
+                0x000012f0                FPUEH_IRQHandler
+                0x000012f0                GPIO_EVEN_IRQHandler
+                0x000012f0                UART0_TX_IRQHandler
+                0x000012f0                UART1_TX_IRQHandler
+                0x000012f0                RTC_IRQHandler
+                0x000012f0                TIMER0_IRQHandler
+                0x000012f0                TIMER2_IRQHandler
+                0x000012f0                LCD_IRQHandler
+                0x000012f0                PCNT2_IRQHandler
+                0x000012f0                UART0_RX_IRQHandler
+                0x000012f0                LETIMER0_IRQHandler
+                0x000012f0                TIMER1_IRQHandler
+                0x000012f0                USART2_RX_IRQHandler
+                0x000012f0                Default_Handler
+                0x000012f0                EMU_IRQHandler
+                0x000012f0                PCNT0_IRQHandler
+                0x000012f0                USB_IRQHandler
+                0x000012f0                BURTC_IRQHandler
+                0x000012f0                PCNT1_IRQHandler
+                0x000012f0                ACMP0_IRQHandler
+                0x000012f0                USART0_RX_IRQHandler
+                0x000012f0                MemManage_Handler
+                0x000012f0                SVC_Handler
+                0x000012f0                DAC0_IRQHandler
+                0x000012f0                UART1_RX_IRQHandler
+                0x000012f0                CMU_IRQHandler
+                0x000012f0                EBI_IRQHandler
+                0x000012f0                LESENSE_IRQHandler
+                0x000012f0                GPIO_ODD_IRQHandler
+                0x000012f0                AES_IRQHandler
+                0x000012f0                VCMP_IRQHandler
+                0x000012f0                DMA_IRQHandler
+                0x000012f0                BusFault_Handler
+                0x000012f0                USART2_TX_IRQHandler
+ .text.GetProdRev
+                0x000012f4       0x1c ./CMSIS/efm32wg/system_efm32wg.o
+ .text.SystemCoreClockGet
+                0x00001310       0x48 ./CMSIS/efm32wg/system_efm32wg.o
+                0x00001310                SystemCoreClockGet
+ .text.SystemHFClockGet
+                0x00001358       0xf0 ./CMSIS/efm32wg/system_efm32wg.o
+                0x00001358                SystemHFClockGet
+ .text.SystemHFXOClockGet
+                0x00001448       0x18 ./CMSIS/efm32wg/system_efm32wg.o
+                0x00001448                SystemHFXOClockGet
+ .text.SystemInit
+                0x00001460       0x20 ./CMSIS/efm32wg/system_efm32wg.o
+                0x00001460                SystemInit
+ .text.SystemLFRCOClockGet
+                0x00001480       0x14 ./CMSIS/efm32wg/system_efm32wg.o
+                0x00001480                SystemLFRCOClockGet
+ .text.SystemULFRCOClockGet
+                0x00001494       0x14 ./CMSIS/efm32wg/system_efm32wg.o
+                0x00001494                SystemULFRCOClockGet
+ .text.SystemLFXOClockGet
+                0x000014a8       0x18 ./CMSIS/efm32wg/system_efm32wg.o
+                0x000014a8                SystemLFXOClockGet
+ .text.exit     0x000014c0       0x28 c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m\libc_s.a(lib_a-exit.o)
+                0x000014c0                exit
+ .text.__libc_init_array
+                0x000014e8       0x4c c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m\libc_s.a(lib_a-init.o)
+                0x000014e8                __libc_init_array
+ .text.memset   0x00001534       0x10 c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m\libc_s.a(lib_a-memset.o)
+                0x00001534                memset
+ .text._exit    0x00001544        0x4 c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m\libnosys.a(_exit.o)
+                0x00001544                _exit
+ *(.init)
+ .init          0x00001548        0x4 c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/crti.o
+                0x00001548                _init
+ .init          0x0000154c        0x8 c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/crtn.o
+ *(.fini)
+ .fini          0x00001554        0x4 c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/crti.o
+                0x00001554                _fini
+ .fini          0x00001558        0x8 c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/crtn.o
+ *crtbegin.o(.ctors)
+ *crtbegin?.o(.ctors)
+ *(EXCLUDE_FILE(*crtend.o *crtend?.o) .ctors)
+ *(SORT(.ctors.*))
+ *(.ctors)
+ *crtbegin.o(.dtors)
+ *crtbegin?.o(.dtors)
+ *(EXCLUDE_FILE(*crtend.o *crtend?.o) .dtors)
+ *(SORT(.dtors.*))
+ *(.dtors)
+ *(.rodata*)
+ .rodata        0x00001560       0x18 ./src/InitDevice.o
+ .rodata        0x00001578        0xc ./src/main.o
+ .rodata.str1.1
+                0x00001584        0x2 c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m\libc_s.a(lib_a-impure.o)
+ *fill*         0x00001586        0x2 
+ .rodata._global_impure_ptr
+                0x00001588        0x4 c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m\libc_s.a(lib_a-impure.o)
+                0x00001588                _global_impure_ptr
+ *(.eh_frame*)
+ .eh_frame      0x0000158c        0x0 c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/crtbegin.o
+ .eh_frame      0x0000158c        0x4 c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/crtend.o
+
+.glue_7         0x00001590        0x0
+ .glue_7        0x00000000        0x0 linker stubs
+
+.glue_7t        0x00001590        0x0
+ .glue_7t       0x00000000        0x0 linker stubs
+
+.vfp11_veneer   0x00001590        0x0
+ .vfp11_veneer  0x00000000        0x0 linker stubs
+
+.v4_bx          0x00001590        0x0
+ .v4_bx         0x00000000        0x0 linker stubs
+
+.iplt           0x00001590        0x0
+ .iplt          0x00000000        0x0 c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/crtbegin.o
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+                0x00001590                __exidx_start = .
+
+.ARM.exidx      0x00001590        0x8
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+ .ARM.exidx     0x00001590        0x8 c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/crt0.o
+                0x00001598                __exidx_end = .
+                0x00001598                __etext = .
+
+.rel.dyn        0x00001598        0x0
+ .rel.iplt      0x00000000        0x0 c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/crtbegin.o
+
+.data           0x20000000       0x74 load address 0x00001598
+                0x20000000                __data_start__ = .
+ *(vtable)
+ *(.data*)
+ .data.SystemHFXOClock
+                0x20000000        0x4 ./CMSIS/efm32wg/system_efm32wg.o
+ .data.SystemLFXOClock
+                0x20000004        0x4 ./CMSIS/efm32wg/system_efm32wg.o
+ .data.impure_data
+                0x20000008       0x60 c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m\libc_s.a(lib_a-impure.o)
+                0x20000068                . = ALIGN (0x4)
+ *(.ram)
+                0x20000068                . = ALIGN (0x4)
+                0x20000068                PROVIDE (__preinit_array_start, .)
+ *(.preinit_array)
+                0x20000068                PROVIDE (__preinit_array_end, .)
+                0x20000068                . = ALIGN (0x4)
+                0x20000068                PROVIDE (__init_array_start, .)
+ *(SORT(.init_array.*))
+ *(.init_array)
+ .init_array    0x20000068        0x4 c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/crtbegin.o
+                0x2000006c                PROVIDE (__init_array_end, .)
+                0x2000006c                . = ALIGN (0x4)
+                0x2000006c                PROVIDE (__fini_array_start, .)
+ *(SORT(.fini_array.*))
+ *(.fini_array)
+ .fini_array    0x2000006c        0x4 c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/crtbegin.o
+                0x20000070                PROVIDE (__fini_array_end, .)
+ *(.jcr*)
+ .jcr           0x20000070        0x0 c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/crtbegin.o
+ .jcr           0x20000070        0x4 c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/crtend.o
+                0x20000074                . = ALIGN (0x4)
+                0x20000074                __data_end__ = .
+
+.igot.plt       0x20000074        0x0 load address 0x0000160c
+ .igot.plt      0x00000000        0x0 c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/crtbegin.o
+
+.bss            0x20000074      0x144 load address 0x0000160c
+                0x20000074                . = ALIGN (0x4)
+                0x20000074                __bss_start__ = .
+ *(.bss*)
+ .bss           0x20000074       0x1c c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/crtbegin.o
+ .bss.tmp_idx_w
+                0x20000090        0x1 ./src/main.o
+                0x20000090                tmp_idx_w
+ *fill*         0x20000091        0x3 
+ .bss.cmuStatus
+                0x20000094        0x4 ./emlib/em_emu.o
+ .bss.bglib_output
+                0x20000098        0x4 ./WF121/cmd_def.o
+                0x20000098                bglib_output
+ *(COMMON)
+ COMMON         0x2000009c      0x118 ./src/main.o
+                0x2000009c                bglib_temp_msg
+                0x200000b0                tmp_buf
+                0x200001b0                rx_buf
+ COMMON         0x200001b4        0x4 ./CMSIS/efm32wg/system_efm32wg.o
+                0x200001b4                SystemCoreClock
+                0x200001b8                . = ALIGN (0x4)
+                0x200001b8                __bss_end__ = .
+
+.heap           0x200001b8      0xc00
+                0x200001b8                __HeapBase = .
+                0x200001b8                __end__ = .
+                0x200001b8                end = __end__
+                0x200001b8                _end = __end__
+ *(.heap*)
+ .heap          0x200001b8      0xc00 ./CMSIS/efm32wg/startup_gcc_efm32wg.o
+                0x20000db8                __HeapLimit = .
+
+.stack_dummy    0x200001b8      0x400
+ *(.stack*)
+ .stack         0x200001b8      0x400 ./CMSIS/efm32wg/startup_gcc_efm32wg.o
+                0x20008000                __StackTop = (ORIGIN (RAM) + 0x8000)
+                0x20007c00                __StackLimit = (__StackTop - SIZEOF (.stack_dummy))
+                0x20008000                PROVIDE (__stack, __StackTop)
+                0x00000001                ASSERT ((__StackLimit >= __HeapLimit), region RAM overflowed with stack)
+                0x00000001                ASSERT ((0x40000 >= (__etext + SIZEOF (.data))), FLASH memory overflowed !)
+OUTPUT(SPI_testing.axf elf32-littlearm)
+
+.ARM.attributes
+                0x00000000       0x2e
+ .ARM.attributes
+                0x00000000       0x1e c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/crti.o
+ .ARM.attributes
+                0x0000001e       0x2e c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/crtbegin.o
+ .ARM.attributes
+                0x0000004c       0x1c c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/crt0.o
+ .ARM.attributes
+                0x00000068       0x37 ./src/InitDevice.o
+ .ARM.attributes
+                0x0000009f       0x37 ./src/main.o
+ .ARM.attributes
+                0x000000d6       0x37 ./emlib/em_cmu.o
+ .ARM.attributes
+                0x0000010d       0x37 ./emlib/em_emu.o
+ .ARM.attributes
+                0x00000144       0x37 ./emlib/em_usart.o
+ .ARM.attributes
+                0x0000017b       0x37 ./WF121/cmd_def.o
+ .ARM.attributes
+                0x000001b2       0x1b ./CMSIS/efm32wg/startup_gcc_efm32wg.o
+ .ARM.attributes
+                0x000001cd       0x37 ./CMSIS/efm32wg/system_efm32wg.o
+ .ARM.attributes
+                0x00000204       0x2e c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m\libc_s.a(lib_a-exit.o)
+ .ARM.attributes
+                0x00000232       0x2e c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m\libc_s.a(lib_a-impure.o)
+ .ARM.attributes
+                0x00000260       0x2e c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m\libc_s.a(lib_a-init.o)
+ .ARM.attributes
+                0x0000028e       0x2e c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m\libc_s.a(lib_a-memset.o)
+ .ARM.attributes
+                0x000002bc       0x2e c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m\libnosys.a(_exit.o)
+ .ARM.attributes
+                0x000002ea       0x2e c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/crtend.o
+ .ARM.attributes
+                0x00000318       0x1e c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/crtn.o
+
+.comment        0x00000000       0x70
+ .comment       0x00000000       0x70 ./src/InitDevice.o
+                                 0x71 (size before relaxing)
+ .comment       0x00000000       0x71 ./src/main.o
+ .comment       0x00000000       0x71 ./emlib/em_cmu.o
+ .comment       0x00000000       0x71 ./emlib/em_emu.o
+ .comment       0x00000000       0x71 ./emlib/em_usart.o
+ .comment       0x00000000       0x71 ./WF121/cmd_def.o
+ .comment       0x00000000       0x71 ./CMSIS/efm32wg/system_efm32wg.o
+
+.debug_info     0x00000000     0xbbda
+ .debug_info    0x00000000      0xc2e ./src/InitDevice.o
+ .debug_info    0x00000c2e     0x36d1 ./src/main.o
+ .debug_info    0x000042ff      0xfe9 ./emlib/em_cmu.o
+ .debug_info    0x000052e8      0xd7c ./emlib/em_emu.o
+ .debug_info    0x00006064      0xe72 ./emlib/em_usart.o
+ .debug_info    0x00006ed6     0x456a ./WF121/cmd_def.o
+ .debug_info    0x0000b440       0xae ./CMSIS/efm32wg/startup_gcc_efm32wg.o
+ .debug_info    0x0000b4ee      0x6ec ./CMSIS/efm32wg/system_efm32wg.o
+
+.debug_abbrev   0x00000000      0xdc7
+ .debug_abbrev  0x00000000      0x15f ./src/InitDevice.o
+ .debug_abbrev  0x0000015f      0x1d0 ./src/main.o
+ .debug_abbrev  0x0000032f      0x29f ./emlib/em_cmu.o
+ .debug_abbrev  0x000005ce      0x263 ./emlib/em_emu.o
+ .debug_abbrev  0x00000831      0x1ba ./emlib/em_usart.o
+ .debug_abbrev  0x000009eb      0x223 ./WF121/cmd_def.o
+ .debug_abbrev  0x00000c0e       0x14 ./CMSIS/efm32wg/startup_gcc_efm32wg.o
+ .debug_abbrev  0x00000c22      0x1a5 ./CMSIS/efm32wg/system_efm32wg.o
+
+.debug_loc      0x00000000     0x1892
+ .debug_loc     0x00000000      0x63c ./src/InitDevice.o
+ .debug_loc     0x0000063c       0x9c ./src/main.o
+ .debug_loc     0x000006d8      0x6d0 ./emlib/em_cmu.o
+ .debug_loc     0x00000da8      0x3b4 ./emlib/em_emu.o
+ .debug_loc     0x0000115c      0x460 ./emlib/em_usart.o
+ .debug_loc     0x000015bc       0xee ./WF121/cmd_def.o
+ .debug_loc     0x000016aa      0x1e8 ./CMSIS/efm32wg/system_efm32wg.o
+
+.debug_aranges  0x00000000      0x4a0
+ .debug_aranges
+                0x00000000      0x138 ./src/InitDevice.o
+ .debug_aranges
+                0x00000138       0x30 ./src/main.o
+ .debug_aranges
+                0x00000168      0x118 ./emlib/em_cmu.o
+ .debug_aranges
+                0x00000280       0xa8 ./emlib/em_emu.o
+ .debug_aranges
+                0x00000328       0xb8 ./emlib/em_usart.o
+ .debug_aranges
+                0x000003e0       0x38 ./WF121/cmd_def.o
+ .debug_aranges
+                0x00000418       0x20 ./CMSIS/efm32wg/startup_gcc_efm32wg.o
+ .debug_aranges
+                0x00000438       0x68 ./CMSIS/efm32wg/system_efm32wg.o
+
+.debug_ranges   0x00000000      0x410
+ .debug_ranges  0x00000000      0x128 ./src/InitDevice.o
+ .debug_ranges  0x00000128       0x20 ./src/main.o
+ .debug_ranges  0x00000148      0x108 ./emlib/em_cmu.o
+ .debug_ranges  0x00000250       0x98 ./emlib/em_emu.o
+ .debug_ranges  0x000002e8       0xa8 ./emlib/em_usart.o
+ .debug_ranges  0x00000390       0x28 ./WF121/cmd_def.o
+ .debug_ranges  0x000003b8       0x58 ./CMSIS/efm32wg/system_efm32wg.o
+
+.debug_line     0x00000000     0x1cc3
+ .debug_line    0x00000000      0x4a7 ./src/InitDevice.o
+ .debug_line    0x000004a7      0x27f ./src/main.o
+ .debug_line    0x00000726      0x7c2 ./emlib/em_cmu.o
+ .debug_line    0x00000ee8      0x466 ./emlib/em_emu.o
+ .debug_line    0x0000134e      0x4b0 ./emlib/em_usart.o
+ .debug_line    0x000017fe      0x1ed ./WF121/cmd_def.o
+ .debug_line    0x000019eb       0x72 ./CMSIS/efm32wg/startup_gcc_efm32wg.o
+ .debug_line    0x00001a5d      0x266 ./CMSIS/efm32wg/system_efm32wg.o
+
+.debug_str      0x00000000     0xacfe
+ .debug_str     0x00000000      0xe6b ./src/InitDevice.o
+                                0xf43 (size before relaxing)
+ .debug_str     0x00000e6b     0x3b22 ./src/main.o
+                               0x3f38 (size before relaxing)
+ .debug_str     0x0000498d      0x6b2 ./emlib/em_cmu.o
+                                0xc40 (size before relaxing)
+ .debug_str     0x0000503f      0x504 ./emlib/em_emu.o
+                                0x86b (size before relaxing)
+ .debug_str     0x00005543      0x503 ./emlib/em_usart.o
+                                0xdf8 (size before relaxing)
+ .debug_str     0x00005a46     0x51b7 ./WF121/cmd_def.o
+                               0x7990 (size before relaxing)
+ .debug_str     0x0000abfd      0x101 ./CMSIS/efm32wg/system_efm32wg.o
+                                0x50b (size before relaxing)
+
+.debug_frame    0x00000000      0xe54
+ .debug_frame   0x00000000      0x384 ./src/InitDevice.o
+ .debug_frame   0x00000384       0x68 ./src/main.o
+ .debug_frame   0x000003ec      0x3b4 ./emlib/em_cmu.o
+ .debug_frame   0x000007a0      0x210 ./emlib/em_emu.o
+ .debug_frame   0x000009b0      0x25c ./emlib/em_usart.o
+ .debug_frame   0x00000c0c       0x94 ./WF121/cmd_def.o
+ .debug_frame   0x00000ca0      0x120 ./CMSIS/efm32wg/system_efm32wg.o
+ .debug_frame   0x00000dc0       0x28 c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m\libc_s.a(lib_a-exit.o)
+ .debug_frame   0x00000de8       0x2c c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m\libc_s.a(lib_a-init.o)
+ .debug_frame   0x00000e14       0x20 c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m\libc_s.a(lib_a-memset.o)
+ .debug_frame   0x00000e34       0x20 c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m\libnosys.a(_exit.o)
