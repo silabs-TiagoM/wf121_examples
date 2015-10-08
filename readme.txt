@@ -1,5 +1,7 @@
 This example project uses the Wonder Gecko STK + DKWF121 to create an Access Point with a TCP server to which clientes can connect and send data to. The data send by clients will be shown in the debug console output. The WF121 is controlled by the Wonder Gecko MCU through SPI interface.
 
+For further description please visit the Knowledge Base article:
+http://community.silabs.com/t5/Wireless-Knowledge-Base/WF121-SPI-host-code-example-using-BGLib/ta-p/154954
 
 HOW TO:
 
